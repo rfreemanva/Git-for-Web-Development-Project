@@ -36,6 +36,8 @@
     36. What is the command we would use to push our repo up to github? push
     37. Walk me through Lambda's git flow. Fork, Contributers, Clone, Branch, Switch Branches, Add, Commit, Push, Pull Request
 
+https://codepen.io/rfreemanva/pen/JjdGQry?editors=1100
+
 Stretch Questions
 
     1. What is the difference between an inline element and a block element?
